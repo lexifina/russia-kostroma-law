@@ -1,0 +1,1495 @@
+{
+ "country": "RU-KOS",
+ "acts": [
+  {
+   "slug": "zakony-2014",
+   "short": "Законы 2014",
+   "title": "Kostroma Oblast: catalogue of the laws published in 2014 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region44",
+   "versions": [
+    {
+     "from": "2014-09-25",
+     "units": 9,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "feb1dc743d8652d7e9428982cf81655323587ab13e37e9038f43646dc184c956"
+    },
+    {
+     "from": "2014-10-27",
+     "units": 10,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "da7349c6b791666b99eee9ba8770f57898eebe4be7c53dfcae8e88b8a740fb45"
+    },
+    {
+     "from": "2014-10-30",
+     "units": 17,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "73bc55b4ef10ac671e61e914be9b7a09cca142c7d9641b3eaa6ad9f2cdda9c75"
+    },
+    {
+     "from": "2014-10-31",
+     "units": 18,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "f047c16436afe72db94ed62c7328f4ce263602ed8366c8594e7187af0c76a10a"
+    },
+    {
+     "from": "2014-11-05",
+     "units": 24,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "a260f9045a3f58abd9d602cdd9bff7849283ee181cd43e1d2c4a6f663fcf4767"
+    },
+    {
+     "from": "2014-11-24",
+     "units": 37,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "9f2254370eb890f6d44f8f8308af10b9d39b4bed72288b69b63c8861e4944bae"
+    },
+    {
+     "from": "2014-11-26",
+     "units": 38,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "ce445c796983121db634232c98dde476045982ed6a5d78afb754a4a6625b675b"
+    },
+    {
+     "from": "2014-12-12",
+     "units": 40,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "6e3f191e9a587524526c54a811c43f7229ef871ebd90e8a249795af98c31683c"
+    },
+    {
+     "from": "2014-12-15",
+     "units": 51,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "31777498e632730353ff8a0a9d8be8da336bd5740724b2a5d7ada4cdb699443a"
+    },
+    {
+     "from": "2014-12-29",
+     "units": 66,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "9c06031fc27eb61624feed5302716dd94f48c63ac074aa976055c83d326af21b"
+    },
+    {
+     "from": "2014-12-30",
+     "units": 67,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "610ed1b543395a8d4568bb9aeed3cfcaff5d9065d28353c2075d3a1838945834"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2015",
+   "short": "Законы 2015",
+   "title": "Kostroma Oblast: catalogue of the laws published in 2015 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region44",
+   "versions": [
+    {
+     "from": "2015-02-06",
+     "units": 9,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "29d1c258797a3adaf8b60419274987619395d78b7a59b4773dd6b5f54f266c2a"
+    },
+    {
+     "from": "2015-02-27",
+     "units": 13,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "d8c0cbd761476e40d40a7e80fd9a8e80e881ab751a297fa1fef160fc9d0c6b71"
+    },
+    {
+     "from": "2015-03-30",
+     "units": 14,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "ff320e20ea9583a4b0e78270977d358c6365355a4bea66590dc95cc2afb7a059"
+    },
+    {
+     "from": "2015-04-03",
+     "units": 22,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "146c54e0eacd9ca3b544dc8b3e2e6be35e82ea62f98f8a27f9b15e132c5a9ae3"
+    },
+    {
+     "from": "2015-04-06",
+     "units": 26,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "83386a68f3c63ac9add3b6dada4cdac67508ec067b663fbd49666131d990173c"
+    },
+    {
+     "from": "2015-04-27",
+     "units": 41,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "433a990105e43c5341fc03618a5e9cf34cf233ab9f5ea76be4722a9c20b426bc"
+    },
+    {
+     "from": "2015-05-19",
+     "units": 42,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "a7524384b48c89e7912da20598c19f48cbd81c4596026b60f1394e41f2f25d2f"
+    },
+    {
+     "from": "2015-05-20",
+     "units": 59,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "da200dc92af87cc18434f337a2f73bca340c772cccd923d67afab5d4527fa885"
+    },
+    {
+     "from": "2015-06-15",
+     "units": 69,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "16eca4889cc52c230166fc597b769ef9841a2f0b390e6974c18167a1e5217f6a"
+    },
+    {
+     "from": "2015-07-10",
+     "units": 93,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "64b8def46333d84bba40dd9e03a545d0aa4acc4735bb10385726a62532fade09"
+    },
+    {
+     "from": "2015-10-07",
+     "units": 94,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "4ae4b5213a6a779176a197c5927e34edbb2d68b9280513203b9e49447ed63f02"
+    },
+    {
+     "from": "2015-10-28",
+     "units": 95,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "d087a75f0c1372fd01d9145cc6e8c0964099fd95b9f722e7c0454b411f59c9a8"
+    },
+    {
+     "from": "2015-11-02",
+     "units": 118,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "19c0541982fd002d236ee3b0d7efc92b2ead030177276e2781033e1d48e971dd"
+    },
+    {
+     "from": "2015-11-03",
+     "units": 119,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "6413eea47d6e66743590e9ed1d1f38df6fac63bf787d7e8a40b59286faaa3579"
+    },
+    {
+     "from": "2015-12-02",
+     "units": 120,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "f26e0b79b73938abed9c741a02412439b9226d2bc0453b9eceb038fab60442b7"
+    },
+    {
+     "from": "2015-12-08",
+     "units": 135,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "c61b946d728784206fdd0b4e876a69e72dec1565057f6b6ab95e5b162e839def"
+    },
+    {
+     "from": "2015-12-22",
+     "units": 136,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "0065778bc37d96709f6cfb674daa8cec32e74c4b3bac1380095b92b5c0dd3685"
+    },
+    {
+     "from": "2015-12-23",
+     "units": 137,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "1a0596a1232f1365b6a6fac6de718c80047a9ed33ad47ddaf5b0227d3ba75b14"
+    },
+    {
+     "from": "2015-12-28",
+     "units": 150,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "0e88bdeb2e0ad0b9e9486ebb614303164de31f365a67a074100aeeb22013362b"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2016",
+   "short": "Законы 2016",
+   "title": "Kostroma Oblast: catalogue of the laws published in 2016 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region44",
+   "versions": [
+    {
+     "from": "2016-01-04",
+     "units": 1,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "bb9e9aa433b616ba8ba71fca4fa155e9ad6635b2f2a816145db6e4bd1029b821"
+    },
+    {
+     "from": "2016-01-25",
+     "units": 2,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "20f0c4357558a1fe2a046f2d85785da5a6be07f1481f32e36f0549b3aa7dc4cf"
+    },
+    {
+     "from": "2016-01-29",
+     "units": 11,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "f63864fb79aa3fa4db929b14f6651871fc974f33197403217861b41a6cda7ea5"
+    },
+    {
+     "from": "2016-03-02",
+     "units": 12,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "3a07229b3ba85f1202e41b3b39a92032be37c708c578d4a35540642c3327cfb8"
+    },
+    {
+     "from": "2016-03-09",
+     "units": 22,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "71c32df1227af70cba451930c9d838e4cf98b16599c224a342257647e6dff4a8"
+    },
+    {
+     "from": "2016-03-21",
+     "units": 23,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "1d2d8e279487af411ced4946d7f16cdc14de4ffaf5eaa6b7b61495499fa34692"
+    },
+    {
+     "from": "2016-03-28",
+     "units": 32,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "6feba95e5624be7c171d79e18904f22b08b3eef754a02536ad1d1b3347b03e59"
+    },
+    {
+     "from": "2016-04-27",
+     "units": 38,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "7795ba78a6c549351147d21e188f7d1c3270a4ef20ccbd5c3f5bd18a7608caa5"
+    },
+    {
+     "from": "2016-04-29",
+     "units": 42,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "d2c012bf5b77387c835c588f2688e08a9b6defad2678983be595df83313fea10"
+    },
+    {
+     "from": "2016-05-30",
+     "units": 44,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "f14cbf3b7490125d0458efe20ea6e7296f5f6276ff24a538af820f7847fe8476"
+    },
+    {
+     "from": "2016-06-10",
+     "units": 45,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "5ff2fc48d976b685ed1565c68561c66f41077174089526550ac9a4dad5e99adc"
+    },
+    {
+     "from": "2016-07-01",
+     "units": 58,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "f25e1ddb4559435644e3a43f5b735b60e65b7368d4859a2ed9e03273b3026ae2"
+    },
+    {
+     "from": "2016-07-14",
+     "units": 64,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "43755e08cc2dad3140bc6bf7d1b932e137eed5d09e66c652761c28a3802f89f6"
+    },
+    {
+     "from": "2016-07-15",
+     "units": 78,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "0a7548613c70a8dcaf4ba4d5e32551e378d6947719eacb062d0c5b3bb5ad3940"
+    },
+    {
+     "from": "2016-09-28",
+     "units": 92,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "b0d4f258529b0f5e3432f35cc86ed5e34759828400fd6d72a700a84b13c3395a"
+    },
+    {
+     "from": "2016-10-27",
+     "units": 107,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "3a1c63a1cd2598c9bd2afa1adca8a50573b9545e3bd04ebfe34fe7ec273c529b"
+    },
+    {
+     "from": "2016-11-28",
+     "units": 108,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "82bfe0f117fcd64d59055388d1000a5882b7dc59386c71c4d8f953f12cfc76f1"
+    },
+    {
+     "from": "2016-11-30",
+     "units": 115,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "da2a670935223497929e2369f30a07c1fe3d3f1d58714aeb8c9bad50b62fa62c"
+    },
+    {
+     "from": "2016-12-19",
+     "units": 117,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "fc51c4069373d45a9010fdb19e16751176548114e172dc1884727eb4c787e90b"
+    },
+    {
+     "from": "2016-12-22",
+     "units": 143,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "6ef64f1e556cf2b4fe670ff7553fdd135d59598628837661ddbd0f423bedb345"
+    },
+    {
+     "from": "2016-12-23",
+     "units": 144,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "6aa2d7abc77d79020d50267f94e739a3e53fe24036b36a353452a1bbfc7749d6"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2017",
+   "short": "Законы 2017",
+   "title": "Kostroma Oblast: catalogue of the laws published in 2017 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region44",
+   "versions": [
+    {
+     "from": "2017-02-03",
+     "units": 8,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "6a4bb4c075d2e9098dc8a71535f5261b527cbed005e0421af1facf68ad5fd46d"
+    },
+    {
+     "from": "2017-02-21",
+     "units": 9,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "2328a024914513b8ca74f7b3c5ef102bbb30280fa3546b190a4d3ac37394d0f9"
+    },
+    {
+     "from": "2017-02-22",
+     "units": 16,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "57e4f20450884fbf3ad3a2ec2284d8cc316eec2ce3daa95539b1ac3eb2ffdc94"
+    },
+    {
+     "from": "2017-03-31",
+     "units": 27,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "9c6f0e9263f35998421bed5f559d3ab6c34d12202ceda382d4a86a4cfda9fd0a"
+    },
+    {
+     "from": "2017-04-24",
+     "units": 28,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "2549d04612a76d5ccc143dd2435b6bfe0ca8e056fd1f4df2af9c39761b9fe453"
+    },
+    {
+     "from": "2017-04-25",
+     "units": 37,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "46de28bf485aac227954dd5646eff4b4519016f5a0430c33d5fdda5462f86970"
+    },
+    {
+     "from": "2017-05-03",
+     "units": 38,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "df86c0ac6b5f472063c90f61621e87e5b2f5568831d2ffcff8801b4e55ae550f"
+    },
+    {
+     "from": "2017-06-01",
+     "units": 55,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "5b01b73068d7042d7ea0b419217a3aa527d0686ae1286a38c60e0d4206063080"
+    },
+    {
+     "from": "2017-06-21",
+     "units": 60,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "65a226a4e80f031324ee28a4da80415b3ff41a1dd730afec5b6fbc36df99cd46"
+    },
+    {
+     "from": "2017-07-10",
+     "units": 61,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "12c7d9185b374d78c4f630efe7b5fa34befe09b27b40305c2a32c407fbe9c7bd"
+    },
+    {
+     "from": "2017-07-11",
+     "units": 62,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "52dd9154757519d6431eafba27a9316210a174a10ace836755bee0a5ddb42928"
+    },
+    {
+     "from": "2017-07-13",
+     "units": 74,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "50b44cce2d0c0bdc5db003e109e5dfaa71eaa257cfe6fe7459e02e3675288378"
+    },
+    {
+     "from": "2017-07-14",
+     "units": 75,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "21b7f0788a9bc17138de41d45aa542a4e7f8196e6554e56a465aa48ac246e3e3"
+    },
+    {
+     "from": "2017-09-18",
+     "units": 76,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "3bbeb8e3ad1a4122c8fdb2025b9914529e7204e3350b201f0af60b22153b828a"
+    },
+    {
+     "from": "2017-09-22",
+     "units": 85,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "922d795d1c0fef9a5b6aa2abefeea5e7b353bc80cf5cb78f73d41988844cccd3"
+    },
+    {
+     "from": "2017-10-26",
+     "units": 101,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "9e9b41c5a980f1a06cd8894c885ea12e1479c79d60ed3dc701984e0d3ae43d0e"
+    },
+    {
+     "from": "2017-11-28",
+     "units": 104,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "97c73f8f71c602750227790d9d130644a11538ea37b248d89597b41aeb3f437c"
+    },
+    {
+     "from": "2017-11-29",
+     "units": 120,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "1041647db788778027321780404c525715838f06258e20f7238f45996c5c128e"
+    },
+    {
+     "from": "2017-12-18",
+     "units": 122,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "7db6384b06a959af3968087b787e3f73b0247380b26b908623551a1618ed1b18"
+    },
+    {
+     "from": "2017-12-19",
+     "units": 135,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "1803942f3d62e3c9382af6c3d3f7945ee450f98c6e5eeafcdf6a57a6068df5c8"
+    },
+    {
+     "from": "2017-12-22",
+     "units": 136,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "51960b4f764f608bc8bef5a42da42ea3d790c089f46e2592b223e23d7d91cbe5"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2018",
+   "short": "Законы 2018",
+   "title": "Kostroma Oblast: catalogue of the laws published in 2018 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region44",
+   "versions": [
+    {
+     "from": "2018-01-24",
+     "units": 1,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "82c01f20389d021f79019c2504311225c09b9b46ac7580631057a040cb7428b9"
+    },
+    {
+     "from": "2018-01-29",
+     "units": 7,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "66df3424620b217a01c220f3caa8ccb8d6ef8c70a8ef6877e9be7d72494d2f49"
+    },
+    {
+     "from": "2018-02-20",
+     "units": 8,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "0cd3ed3505ec659e9aeb79e00ed0419f7bb2bd1cafdb7054229cd1ac41222c0c"
+    },
+    {
+     "from": "2018-02-21",
+     "units": 22,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "91714a4423813e56a33d8f043c32f38f5be2de73899548b195758efc8fc15389"
+    },
+    {
+     "from": "2018-03-27",
+     "units": 23,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "3a291011866b4d6555487dbaa76762ce9836e7f59a6e3674e40dd6f14ddfe22d"
+    },
+    {
+     "from": "2018-03-30",
+     "units": 33,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "2fa7970d2b0378cdddacb228a091b128f797ca34684b17c53768146c27bd4b42"
+    },
+    {
+     "from": "2018-04-25",
+     "units": 37,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "fdb027516580be8d28adbbbc600a44c0c14bbae27a1f96b0201bcdf88c33caf1"
+    },
+    {
+     "from": "2018-05-24",
+     "units": 48,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "8e3e5c9b21f9155e754839f153125e6b2e97ae094682210d60cf5951c73c82ca"
+    },
+    {
+     "from": "2018-06-20",
+     "units": 50,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "2ffdde2617f49892fa1bb0c82ff8c3bec2a5b8d3b59ddec4b27328da79a7fa9a"
+    },
+    {
+     "from": "2018-06-21",
+     "units": 65,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "686d301f5b63e11d4ba35d30733066f704987350663bb90eb837bdc757402655"
+    },
+    {
+     "from": "2018-07-17",
+     "units": 81,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "e2ec4373c9ea895747720dc45d10affca5f017865ad9d825d02f6d322d374e38"
+    },
+    {
+     "from": "2018-07-18",
+     "units": 90,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "2ece65db75c48a8eab88aed6fd465ed9ac7915558475d2a21ccab89c45855f3c"
+    },
+    {
+     "from": "2018-07-20",
+     "units": 91,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "9d1ca61c683d4a558aa30b9c1761927ba7dc6c8d70f464b10fdc2b6d663709d3"
+    },
+    {
+     "from": "2018-08-01",
+     "units": 92,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "60624fe985ca7c26567e49b7643d0244be4661709fe7a213edf4d7cae3e196dc"
+    },
+    {
+     "from": "2018-09-20",
+     "units": 93,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "a2491a23f410163d73213fae15a2f24cb0faefd1ddc5d4959e147ee2181c854d"
+    },
+    {
+     "from": "2018-09-21",
+     "units": 95,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "0f44e9891302b86a3bef67f696ac5927e5e24a2623854768f7a7cef4abf9fa21"
+    },
+    {
+     "from": "2018-09-24",
+     "units": 112,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "d84b944ebaa91c90ba5e1a84abb127c2a0f464d686dea4546ebf1076edcbf445"
+    },
+    {
+     "from": "2018-10-22",
+     "units": 113,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "29e6a5e91bee5f5d9afbdd6612677181548dc7a94e937187024d0c6861c19ddd"
+    },
+    {
+     "from": "2018-10-24",
+     "units": 135,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "2d2c9a84bbf6b560530859b8e00ba5ffcd1ccb6e5fda08cbc70f4a8224967bf5"
+    },
+    {
+     "from": "2018-10-25",
+     "units": 136,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "4d877fb702fdf1502d3d6178a5d314d8d623e07f9aca1fe4d8b97674048f4f8a"
+    },
+    {
+     "from": "2018-11-26",
+     "units": 137,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "48896abdad9e6740439f00004c29c5d51d651cc70c373f094f6bee6b4de12825"
+    },
+    {
+     "from": "2018-11-29",
+     "units": 156,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "5cdc8b16cca11e02a81e43f8f3e28e9d8e58008f7865ad9d06e07d179e547cbe"
+    },
+    {
+     "from": "2018-12-24",
+     "units": 157,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "af16f111a7d8528ee6b30de68c63eed77ff415c8bddb5be817dd6d3250bf7d4b"
+    },
+    {
+     "from": "2018-12-25",
+     "units": 158,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "2bf6861726e28dc8303b729bce42f86997f11e074c2678e17cc74d84361353b7"
+    },
+    {
+     "from": "2018-12-27",
+     "units": 171,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "c195f6be9b0f221c99ed7a2e80f3dcfea1160e015bd8a2465cb9cce44953939c"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2019",
+   "short": "Законы 2019",
+   "title": "Kostroma Oblast: catalogue of the laws published in 2019 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region44",
+   "versions": [
+    {
+     "from": "2019-01-31",
+     "units": 3,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "c8d9845e80bee629c3be6b4452c1c67278a09144d24293ae3d7ff251ae0c9da5"
+    },
+    {
+     "from": "2019-02-28",
+     "units": 17,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "5230c3528e1fe487d494a75a6e0fb73559b10af8d56ed0d40b637cc8877e1e1f"
+    },
+    {
+     "from": "2019-04-01",
+     "units": 25,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "5c93f941166004b3943416b6f686137e9f4e6c9bb843d33b2a11b1d6d4b3a467"
+    },
+    {
+     "from": "2019-04-23",
+     "units": 43,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "212fac03be6032735441b5c5889f2edf629f1f61924a65bf36c828332814f0b7"
+    },
+    {
+     "from": "2019-05-31",
+     "units": 49,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "47cee182ab2a21953a16ae8caba8cc356f61a74b1d9a8a58b32a4e7b1f5c2532"
+    },
+    {
+     "from": "2019-06-20",
+     "units": 60,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "1081c4473dda955dd854458ccc8d6e339e7cd55b80889c455147ee766033a91c"
+    },
+    {
+     "from": "2019-07-10",
+     "units": 77,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "08e113a1416a39d9d37efc725bbf1ab0cf278fefc7c224b6a7a16567e328c4af"
+    },
+    {
+     "from": "2019-09-17",
+     "units": 78,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "cdc1410b12653f72a90e52c7ff5148bcacdd203ba2ea6680ce865de5c7f9598b"
+    },
+    {
+     "from": "2019-09-19",
+     "units": 89,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "06e42461ff1a2682eba1db5c97e5c090fb2b1c8524dc515168958aa2f9ddb6e8"
+    },
+    {
+     "from": "2019-10-21",
+     "units": 90,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "e9057a0ec9d555d4468acc32741fb0b6a909e3aaef22bec1049d5833a9789815"
+    },
+    {
+     "from": "2019-10-23",
+     "units": 107,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "ccfff87f24404b90edc011d8f39dd2a2a7ae0a45aad3ae46d70b336b94bf3402"
+    },
+    {
+     "from": "2019-11-26",
+     "units": 109,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "6651a5a7712d8697b6719c0a7f5884eeb2649fb26eacb0405832e2ac871ed30e"
+    },
+    {
+     "from": "2019-11-27",
+     "units": 110,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "1695d12f236de5133f6af0a253b517b471001c3fb6ed025f5e60f7f6872bd2b8"
+    },
+    {
+     "from": "2019-11-28",
+     "units": 122,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "e8d908a88779d4ee41b3e91683dc5887bd534640ce240b319f68346656fa9554"
+    },
+    {
+     "from": "2019-12-23",
+     "units": 123,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "76be79aa699d012e9a5da61a74df41498a60c31bb659db39ebeaafc8ea7cb885"
+    },
+    {
+     "from": "2019-12-24",
+     "units": 124,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "caef14038aec8f3982dda69571eea95ea5e65802ec95a102bb78dd70c64a581f"
+    },
+    {
+     "from": "2019-12-26",
+     "units": 141,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "186e9bf5c32f67eac9d2f0f41873b46688d17c3a1f8700bccbc52b66cd5d4ca2"
+    },
+    {
+     "from": "2019-12-27",
+     "units": 142,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "56c9dbb77437eb1b4df779c68440b6d9fcbeb12c61bd838ab609ef35db24c132"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2020",
+   "short": "Законы 2020",
+   "title": "Kostroma Oblast: catalogue of the laws published in 2020 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region44",
+   "versions": [
+    {
+     "from": "2020-02-05",
+     "units": 6,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "2f1cb92cb38798110c9d3b33b2ac4c95a7267b8c10bacbb5c975f7adeee087fe"
+    },
+    {
+     "from": "2020-02-28",
+     "units": 12,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "f22986e6e208ed6d0a601a978dd56f5a9c85d3888585ff1496183470568a94f1"
+    },
+    {
+     "from": "2020-03-20",
+     "units": 21,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "f88fd3d5b4d77eaf26cd3755ce55e65c69441aaa764052b16e333a75ee4e9bc5"
+    },
+    {
+     "from": "2020-03-30",
+     "units": 23,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "0c49a2b148986ba3d19d82f2703e6faa1ce980f46f042763ea388f4a5ebdfccf"
+    },
+    {
+     "from": "2020-04-06",
+     "units": 24,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "3253cc8109e045b3cacca3e4b09321b7be57bd7eee2e249bf3d98bab98beb2ef"
+    },
+    {
+     "from": "2020-04-07",
+     "units": 25,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "86e929471061ea2c665987a31f1a0f3c106fd3e5ee9b030c024b8d2ab48efceb"
+    },
+    {
+     "from": "2020-04-20",
+     "units": 26,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "5149b293c7ffd953b1ead505bd4445304439914324f2a949461f167d2d5e70f4"
+    },
+    {
+     "from": "2020-04-22",
+     "units": 31,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "89ddf12fa392d5ce067944d090602063ef45e6dd08cd8c857d0c0f8ed0ccdc66"
+    },
+    {
+     "from": "2020-05-14",
+     "units": 32,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "9717600b4360bfb9dc0cd2920cfc0ec71817702e998eca2309d374e0f4cd3c18"
+    },
+    {
+     "from": "2020-05-26",
+     "units": 33,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "92b90a356748cb6e6106e3dff883c4c09ae36e69d90c3236dbb6b1debf78ed60"
+    },
+    {
+     "from": "2020-05-27",
+     "units": 51,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "b9f8a72074b389d89dfe5c30b4f608150f50b7fd34f3c674ff9a4b5afefaf909"
+    },
+    {
+     "from": "2020-06-17",
+     "units": 56,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "9a5b2666f9daaa32db57db78bd7aa5d22db9ac800d3d1cc086cc0d8af7cb7201"
+    },
+    {
+     "from": "2020-07-07",
+     "units": 59,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "c3f8f17c2eb852e9433fc7f1ee1b29e2a8da966c61ea6740f820cf5dbcee9b17"
+    },
+    {
+     "from": "2020-07-08",
+     "units": 79,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "90131dfc797fe770f8992f38f0dac365a93e855c17733878db07cec13b0f8848"
+    },
+    {
+     "from": "2020-07-20",
+     "units": 81,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "718d251582ea77eafc5d5b2fa46f18061adb4b1fae1738516379046f826ce9e4"
+    },
+    {
+     "from": "2020-08-18",
+     "units": 82,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "afafd614a23df4a4511f683a6da3fe7f295ab866eafdb5eff8be087a48289a51"
+    },
+    {
+     "from": "2020-09-14",
+     "units": 83,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "7ae001621795efc3ce046c9b4419fcec2d7f5199403dbb96fbbf57de8c255b06"
+    },
+    {
+     "from": "2020-10-05",
+     "units": 85,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "3a47996a84159f988ec428dba76d3121c90d9de8e4d7c79b2d4fc5bc2d7ee84b"
+    },
+    {
+     "from": "2020-10-27",
+     "units": 86,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "db04485471f1b0bb592b8a9ed2e5a99062a7669b83abce87d9a6710d8470ff5a"
+    },
+    {
+     "from": "2020-10-28",
+     "units": 104,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "21c780bdd2a82f67c0d8d77483fef88f0e80e05ee4fac9a5643f0a05a935db71"
+    },
+    {
+     "from": "2020-11-27",
+     "units": 105,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "de9a595075650aec957b1ea5377e61bceef480ebca2f74e8125fe32e300ef43a"
+    },
+    {
+     "from": "2020-12-01",
+     "units": 114,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "ebbb839aa05e450d0ebc24aaf1979dfbf80a7981ccf7863aed2e2a0c4332a30d"
+    },
+    {
+     "from": "2020-12-04",
+     "units": 116,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "decdd203f801d846d3dcbdb1269983c8afd0480a25ddfa0ae49d15a7e70640d7"
+    },
+    {
+     "from": "2020-12-18",
+     "units": 119,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "367dcb577026074561198ede253e02d47029aa2175f8b0bbb9a2db91b9cce3bf"
+    },
+    {
+     "from": "2020-12-22",
+     "units": 123,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "19b7b366a105762dd2424ab6bb33b9b6d50699d2c3b7da14e7c33d908ab7c75c"
+    },
+    {
+     "from": "2020-12-23",
+     "units": 131,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "d9e2f193a93e23fb2449c0ecda946cdc080dcf22871f7270158c9b1803d1b4de"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2021",
+   "short": "Законы 2021",
+   "title": "Kostroma Oblast: catalogue of the laws published in 2021 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region44",
+   "versions": [
+    {
+     "from": "2021-02-03",
+     "units": 4,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "422a945de465a81a8ca50c102d3e6986f337e695a41cc8e290105ea111c076bf"
+    },
+    {
+     "from": "2021-02-19",
+     "units": 7,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "5b954cd80c8a73a93ce1d26bf962b51c3db1f618c4ea06608f02dd42de4318dc"
+    },
+    {
+     "from": "2021-02-25",
+     "units": 16,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "41bd80e01cb020fd422198b8ee0fb2fc574628bd643adfbcdbead4fd0dd1c479"
+    },
+    {
+     "from": "2021-03-18",
+     "units": 17,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "df669fd908a6253bcabf54e69c3307063fcaa93db449449df6737ee7e1ff7f5a"
+    },
+    {
+     "from": "2021-03-23",
+     "units": 27,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "6082ae43250869c0a0c9f3fe0abe47a70949983d7fa83ad8c057c3af669e0f57"
+    },
+    {
+     "from": "2021-04-27",
+     "units": 40,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "3e9d53242999879501974a220e07c9c40b13df617223abfcf458767d2cce72dc"
+    },
+    {
+     "from": "2021-05-21",
+     "units": 44,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "14934f6a4a5a6f2d8274cabc9c48beafdc9cce90607842ea9337371426315c79"
+    },
+    {
+     "from": "2021-05-24",
+     "units": 45,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "9b7fc16c595217932065bcb5a26f04ed74b4b01c7660613aa4129030b48aa791"
+    },
+    {
+     "from": "2021-05-25",
+     "units": 50,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "22df866a8a105bbc8686c6c4d7a16cc59452c990f1cd67c976ed3a393ff274bf"
+    },
+    {
+     "from": "2021-06-17",
+     "units": 56,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "2ed2eeda0ad374b53e5716aefedf4e9a918c88620bc3c7c337607b1596e9d7bd"
+    },
+    {
+     "from": "2021-07-05",
+     "units": 57,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "a629dd21be040e997e9592c1bec9b968bb25f6dea5dc1052dfb67fbd8ec5cfa1"
+    },
+    {
+     "from": "2021-07-08",
+     "units": 73,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "0bd8b45d6f2af6fe1e5b52ee93f39066866ca8dbe03db7dd5c8bdfe0117d46e1"
+    },
+    {
+     "from": "2021-07-12",
+     "units": 74,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "86a8fec9afffaa193c90e3272ee61dc47b81b17463b25abc7ec21db4c3c546f1"
+    },
+    {
+     "from": "2021-09-27",
+     "units": 82,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "0dd48478bde04f4151dd4ef665e3273808ab99e2a1527c992384030189dee7a6"
+    },
+    {
+     "from": "2021-09-28",
+     "units": 91,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "8c185574bdb324e10ea6233736ea3672e28ead396e7f808701e7d270182689c5"
+    },
+    {
+     "from": "2021-10-27",
+     "units": 100,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "0cf7933e9a541469c152a96b81af533f9b26897473eeb490151b65e970a897a9"
+    },
+    {
+     "from": "2021-11-29",
+     "units": 102,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "f9072bb1444ed148952fc4ec73b4acaa26e36e5d46f3f1748cbb97dce3d53cb9"
+    },
+    {
+     "from": "2021-11-30",
+     "units": 116,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "eaab65057d0a6c8bfbebde960f57c6f5d66377fd4ffe5cfe4309a7b6256880ed"
+    },
+    {
+     "from": "2021-12-21",
+     "units": 117,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "172daab8a9e6a4d838f0ba81ccd8b0942b2a77823001a14f66b00faedb2acd4f"
+    },
+    {
+     "from": "2021-12-22",
+     "units": 126,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "06b519665518d053de7c1161e7626391a4edf00502d885ac2adaa6d0ac320ab7"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2022",
+   "short": "Законы 2022",
+   "title": "Kostroma Oblast: catalogue of the laws published in 2022 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region44",
+   "versions": [
+    {
+     "from": "2022-02-01",
+     "units": 4,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "d313df344bccbc290956103756af404a8f812fe7177ab84b6a6943a7b44452ce"
+    },
+    {
+     "from": "2022-02-22",
+     "units": 9,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "8a4b21611102aac58c5f4197ffa1f7173a545d7453cec105741a5041362f1c62"
+    },
+    {
+     "from": "2022-03-24",
+     "units": 19,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "0ffb600b8ffa82a87270fefd35d3a61d7d72fa009b4177b2e6473b874c2253c2"
+    },
+    {
+     "from": "2022-04-26",
+     "units": 20,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "a091f1e011cf9b5f3184dc4835af16304c091b07c2882e72fb26d8646fb70804"
+    },
+    {
+     "from": "2022-04-27",
+     "units": 37,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "603934e1e8f1860e642094913a4391416e99dca67138897922265892e8f8df78"
+    },
+    {
+     "from": "2022-05-25",
+     "units": 46,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "26d4c7f040b21651207246872996ee19ab4e26cc8a1f3ef343a86f519eebaf54"
+    },
+    {
+     "from": "2022-06-22",
+     "units": 54,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "72b51488679cbc89eb9518b6091868bca75a425b2609e779a0f3fafe3caeb0e0"
+    },
+    {
+     "from": "2022-07-12",
+     "units": 66,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "54a45794f59c6e0f411bdf1d1063d56ea03cf249bf59902cc452dc045b287059"
+    },
+    {
+     "from": "2022-07-13",
+     "units": 78,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "9217d027dbd8442758eba31586d94295dec44927e44211a7fa211d2d3c4298f5"
+    },
+    {
+     "from": "2022-09-20",
+     "units": 96,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "09e59db6e6efa135c95979bdcdae9401254806d84821f81616ecd602fcc85fa4"
+    },
+    {
+     "from": "2022-10-25",
+     "units": 110,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "738c06a3fee759e79ebfc580180fe6e4dc4952a67d0d763952fac580b37f5166"
+    },
+    {
+     "from": "2022-11-28",
+     "units": 122,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "4db279a127113745ce5eb3b076927d2b38e2a5ccd9ea79664231f07fb65e51f1"
+    },
+    {
+     "from": "2022-12-21",
+     "units": 123,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "0bbd8bf825ab13baf72faa30af8600ae21a659f124fc7febc04a6aacfe8dea26"
+    },
+    {
+     "from": "2022-12-22",
+     "units": 145,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "6643d0d91c857e3f029c1c492ed0b907996d4977e38a1f2ff3fa5f0aa4342abe"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2023",
+   "short": "Законы 2023",
+   "title": "Kostroma Oblast: catalogue of the laws published in 2023 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region44",
+   "versions": [
+    {
+     "from": "2023-02-02",
+     "units": 5,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "003963afa516f1254a3bdc3a49cd7a5dcff630721d7c23c5acc9060d031f388f"
+    },
+    {
+     "from": "2023-02-20",
+     "units": 11,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "65312a6d215a50f6bcd4256c17065d2fa0ab992498a76defb7f6a7211f73e428"
+    },
+    {
+     "from": "2023-03-20",
+     "units": 12,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "5b44d90f52910a1dee7e47d61ccb43d9b0621fa822a8f52662f72b0f93ec22c7"
+    },
+    {
+     "from": "2023-03-21",
+     "units": 30,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "34488b718170b0473da4443f68dc5613b22f1306a19c316c1772f35777bd746a"
+    },
+    {
+     "from": "2023-04-26",
+     "units": 42,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "175f62b98624ef2b2b06c5580c3adffaae86ed4e13ebb50dbbee9661535bffb8"
+    },
+    {
+     "from": "2023-05-23",
+     "units": 47,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "bf0e5c080b6abe2e6170334fc556ea55b5a9eca21ea18298c875524ef8b8d277"
+    },
+    {
+     "from": "2023-06-14",
+     "units": 55,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "546f331fd57a23d1e97ce43caf70e3c25fe7401545680cabf072898ebf8e4c99"
+    },
+    {
+     "from": "2023-07-10",
+     "units": 57,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "4f511b4307af07bc90d0172ba3853d2d134f275a8632001ea1890c4be6bbde83"
+    },
+    {
+     "from": "2023-07-11",
+     "units": 69,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "8467387b07709717b049b488aa7ee883dfb3b7b14839cbb2b3301d93e138ac8f"
+    },
+    {
+     "from": "2023-09-20",
+     "units": 84,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "4a1df4d567a58e91b2b24e74ca428c6db91178d8ed349ad2d97a70dc244bf8d3"
+    },
+    {
+     "from": "2023-10-25",
+     "units": 95,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "7dff59d14c3677d4569ea30e97785b14cb1b5a392d8a5d7d2758f813d4d3c29c"
+    },
+    {
+     "from": "2023-11-28",
+     "units": 108,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "e701e6396850a619aec831d21b2ae19e5d7ccf4ae6728a0ee1d50223cab6ec66"
+    },
+    {
+     "from": "2023-12-18",
+     "units": 121,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "12621e9efcd98c8931ee82ef227f70cdbfeee25e853cec766a4bf6cdc40401bd"
+    },
+    {
+     "from": "2023-12-19",
+     "units": 126,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "23dfd4f9e6eb3b55ad66e8668170f3978cce5623072478c191b9818e4315d85b"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2024",
+   "short": "Законы 2024",
+   "title": "Kostroma Oblast: catalogue of the laws published in 2024 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region44",
+   "versions": [
+    {
+     "from": "2024-01-30",
+     "units": 7,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "3939fd445ec1e620d00b27768b67f5bcbaa8849c9d804d82ae1687930ec1e806"
+    },
+    {
+     "from": "2024-02-20",
+     "units": 12,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "d91e493e75423d48f32d157a34372dc61207b37f540bff216c8af7e86197bfc1"
+    },
+    {
+     "from": "2024-03-26",
+     "units": 21,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "e9111a97722b12aa11d26241bcbd472d5453396e76da7a7ec43082bf568603c2"
+    },
+    {
+     "from": "2024-04-23",
+     "units": 29,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "e5e5908cf50c4565a77ee3644513964f3b45f72298f940ab82c39b7095a3a333"
+    },
+    {
+     "from": "2024-05-22",
+     "units": 34,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "e4988e3deaf09d110f2846f17086fb7d529f8114c6f3477d1fc8ce217dcd4c3a"
+    },
+    {
+     "from": "2024-05-23",
+     "units": 40,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "09b7d3592f045571d96627c6bf832954456e036804517e05e40b876728c7ab17"
+    },
+    {
+     "from": "2024-06-11",
+     "units": 52,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "fd3a3dbcb906069c6d0a521e71227b89462fa9b71b12a5c32b753fd77a7065da"
+    },
+    {
+     "from": "2024-07-04",
+     "units": 53,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "b3e4ff7aeee1bee53742c809aa95c4740a5bcc0dc714d7bab8236e3495ef00e5"
+    },
+    {
+     "from": "2024-07-08",
+     "units": 54,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "f424b6c80f80ad6e43dd8ad465938842a7187de3069eeefb7809433be6dbfd7f"
+    },
+    {
+     "from": "2024-07-10",
+     "units": 72,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "df49f48e368a8bfbea3aea9af91a0a1c181bd6d75b461766ce455c71f7dba10d"
+    },
+    {
+     "from": "2024-09-24",
+     "units": 73,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "eccb24d3f51087707b0e54407b23b547cab0dd2321b50f4ea8eb289ce73bb4ae"
+    },
+    {
+     "from": "2024-09-25",
+     "units": 85,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "de248fb32761eb6cbbea7b1c34e2f5af7b494eadbacbba52db7737fb7f77157c"
+    },
+    {
+     "from": "2024-10-21",
+     "units": 97,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "ab87f22f6d3c5108f422d3e9f9ba58eaa834c35699bb8507ff7c8cb2389ce6d9"
+    },
+    {
+     "from": "2024-11-25",
+     "units": 109,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "650143db79c96ea8f54a4f9a1e71fbfa8b9e643bad63773e2bc594a5bc2fba78"
+    },
+    {
+     "from": "2024-12-13",
+     "units": 110,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "b82dee1e08a7c99c3b29891b0bc0e7baf3ed94fa3412ec0b67c62b7b07c7a12c"
+    },
+    {
+     "from": "2024-12-16",
+     "units": 124,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "235338a6da6fef2b3d78a75c3a10eec97d259878f2bc3ce7adb6fa7e9f3854b8"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2025",
+   "short": "Законы 2025",
+   "title": "Kostroma Oblast: catalogue of the laws published in 2025 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region44",
+   "versions": [
+    {
+     "from": "2025-01-27",
+     "units": 7,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "98d3f071fa8e2c2d6c0d8e3ea32cdb6e8dde7baff4eb9c187547bf9fd554d0e9"
+    },
+    {
+     "from": "2025-02-25",
+     "units": 9,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "5cd17ebc07b64e6eef9d1e0f555547ef1f155526e4d6a9d9887cd32cf1d53405"
+    },
+    {
+     "from": "2025-02-26",
+     "units": 21,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "7912b9f1b54588279c5a23e6c652e8d2bec5b28607eb14d9ab1595b153b2bc21"
+    },
+    {
+     "from": "2025-03-21",
+     "units": 30,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "6da32d45d0c3e34cf1f7246293abb8690ed578bb067ee11a9403e796d42c975e"
+    },
+    {
+     "from": "2025-03-24",
+     "units": 37,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "cbfefb94c36640b547ce0a82d13735aa1b6b604b4306e49b04f6e5c38c1cd9ec"
+    },
+    {
+     "from": "2025-04-22",
+     "units": 42,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "dfc5f02f386cf4df997814b294d74109f8c2f452968f3031fa9bbee743019be5"
+    },
+    {
+     "from": "2025-05-20",
+     "units": 49,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "37e4a31d0b7c95959d01e91dd0fb54e342ee91e57928b23727990eb52d1f96b6"
+    },
+    {
+     "from": "2025-06-09",
+     "units": 61,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "019d0069a3f0f31953526036c3fc413faf1f5ee19e7e4b2c729daa4d258b119a"
+    },
+    {
+     "from": "2025-06-16",
+     "units": 62,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "7cbc150f8bd1fc678d640fbba308b8d69d58234872045809d1febdeb6ead3969"
+    },
+    {
+     "from": "2025-07-08",
+     "units": 81,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "7928563869e2307fdb370bedfe5c4d6ff7dc7c8957525187bd15c858830c1359"
+    },
+    {
+     "from": "2025-10-27",
+     "units": 99,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "de8b86b72c3a1a6c9fa1f91a6bd1ded7291c40e57931a73a115b3befa71641ba"
+    },
+    {
+     "from": "2025-11-26",
+     "units": 110,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "84e760ef73f9f4c57b255c50e990f8ada50a96650d68ee47eee6f4209c3d36bc"
+    },
+    {
+     "from": "2025-12-22",
+     "units": 111,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "477ae4f967ec92ceeff5197390bfe4ab5e718156580bc8a44084cce8146b9541"
+    },
+    {
+     "from": "2025-12-24",
+     "units": 130,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "f59429e6c79cbc203658c2abeeb83423b27cbf603df106d79c463261cbce71c6"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2026",
+   "short": "Законы 2026",
+   "title": "Kostroma Oblast: catalogue of the laws published in 2026 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region44",
+   "versions": [
+    {
+     "from": "2026-02-02",
+     "units": 4,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "85a24540154f7605fbb20899cc886ef1d93d3a23393a03c3aa042e537c23701d"
+    },
+    {
+     "from": "2026-02-24",
+     "units": 16,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "b91f8b65f047d2b9c22c11854621a7195630445d285d3eb233c2f55b6b2e4dca"
+    },
+    {
+     "from": "2026-03-23",
+     "units": 24,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "132f8b74c2e73059447a550a20c8ed497b6407ce830b5665bc10a199d20cd2d1"
+    },
+    {
+     "from": "2026-04-20",
+     "units": 25,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "25ed612e24b2123d5190d9dd4c27291f6430402ff7e0da6126b9e7ad2fc247c9"
+    },
+    {
+     "from": "2026-04-21",
+     "units": 35,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "fc87ed54c42a06080fa4c4d43fbff8db362572263e120da92fb5c29af8baa1ac"
+    },
+    {
+     "from": "2026-05-18",
+     "units": 41,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "37428a49f23c57341ded07b68f9418e66194ac27eba3f066f50179ccd1537dbe"
+    },
+    {
+     "from": "2026-06-09",
+     "units": 49,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "38fc0aadb549cb7ee4335004863dfbdb64e78978d028c86041f21aaad9e845fc"
+    },
+    {
+     "from": "2026-07-28",
+     "units": 66,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "a7d6787b4da7361c6ea42b6ee597dff946c93327cbbc85a41d2de263ff8370ad"
+    },
+    {
+     "from": "2026-09-28",
+     "units": 74,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "ccfd2283825b89bb1b4645f2caaaa81cffcbee0dc32b0a6919a67ce662bf2305"
+    },
+    {
+     "from": "2026-10-01",
+     "units": 75,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "8b9cb3db113bd9493d9861deee8876102ed7e4d7e01d00a44912d1703ed54413"
+    },
+    {
+     "from": "2026-10-23",
+     "units": 76,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "60446e6dcbdb90e11c6600b21067f6d79d5945bdba35438ce738672ca2834ca0"
+    },
+    {
+     "from": "2026-10-27",
+     "units": 91,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region44",
+     "sha256": "10179cff24dc963f3f342f4cd4c84273fbef319a7c69bbd692af8b31dcc4c029"
+    }
+   ]
+  }
+ ]
+}
