@@ -1,6 +1,6 @@
 # Kostroma Oblast: catalogue of the laws published in 2026 (facts only, no law text)
 
-Законы 2026 · 12 versions, from 2026-02-02 (latest in force: 2026-10-27) · <http://publication.pravo.gov.ru/documents/block/region44>
+Законы 2026 · 13 versions, from 2026-02-02 (latest in force: 2026-11-27) · <http://publication.pravo.gov.ru/documents/block/region44>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -45,6 +45,15 @@
 | Закон № 138-8-ЗКО | [138-8-zko.md](138-8-zko.md) | 1 | 2026-10-27 |
 | Закон № 139-8-ЗКО | [139-8-zko.md](139-8-zko.md) | 1 | 2026-10-27 |
 | Закон № 140-8-ЗКО | [140-8-zko.md](140-8-zko.md) | 1 | 2026-10-27 |
+| Закон № 141-8-ЗКО | [141-8-zko.md](141-8-zko.md) | 1 | 2026-11-27 |
+| Закон № 142-8-ЗКО | [142-8-zko.md](142-8-zko.md) | 1 | 2026-11-27 |
+| Закон № 143-8-ЗКО | [143-8-zko.md](143-8-zko.md) | 1 | 2026-11-27 |
+| Закон № 144-8-ЗКО | [144-8-zko.md](144-8-zko.md) | 1 | 2026-11-27 |
+| Закон № 145-8-ЗКО | [145-8-zko.md](145-8-zko.md) | 1 | 2026-11-27 |
+| Закон № 146-8-ЗКО | [146-8-zko.md](146-8-zko.md) | 1 | 2026-11-27 |
+| Закон № 147-8-ЗКО | [147-8-zko.md](147-8-zko.md) | 1 | 2026-11-27 |
+| Закон № 148-8-ЗКО | [148-8-zko.md](148-8-zko.md) | 1 | 2026-11-27 |
+| Закон № 149-8-ЗКО | [149-8-zko.md](149-8-zko.md) | 1 | 2026-11-27 |
 | Закон № 50-8-ЗКО | [50-8-zko.md](50-8-zko.md) | 0 |  |
 | Закон № 51-8-ЗКО | [51-8-zko.md](51-8-zko.md) | 0 |  |
 | Закон № 52-8-ЗКО | [52-8-zko.md](52-8-zko.md) | 0 |  |
