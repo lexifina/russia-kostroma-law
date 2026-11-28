@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T06:09:40Z",
+ "generated": "2026-11-28T06:23:59Z",
  "latest": {
   "pravo-kostroma|russia/kostroma/acts": {
    "attempt": 1,
@@ -12,26 +12,40 @@
     "sampled": 2
    },
    "census": {
-    "checked": 1683,
+    "checked": 1692,
     "current": 1683,
     "gone": 0,
     "held": 1683,
     "newest_in_repo": "2026-10-27",
-    "pending": 0,
+    "pending": 9,
     "repo": 1683,
-    "source_in_scope": 1683
+    "source_in_scope": 1692
    },
-   "check_id": "ru-pravo-kostroma-20261127T053017Z",
-   "commits": null,
+   "check_id": "ru-pravo-kostroma-20261128T053904Z",
+   "commits": {
+    "count": 2,
+    "from": "e2e9c48c1b957d55635c751f1f6ced4c23634ded",
+    "to": "eaf9b946d699e90ca74a4d5663021af63afbe102"
+   },
    "corpus": "russia/kostroma/acts",
    "error": null,
-   "finished": "2026-11-27T05:31:00Z",
+   "finished": "2026-11-28T05:39:53Z",
    "flags": [],
    "gap": 0,
-   "note": "publication.pravo.gov.ru, block region44: 1683 law-type documents listed (every page read); 1683 held here; 0 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
-   "outcome": "no-change",
+   "note": "publication.pravo.gov.ru, block region44: 1692 law-type documents listed (every page read); 1683 held here; 9 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
+   "outcome": "changed",
    "published": {
-    "added": [],
+    "added": [
+     "4400202611270001",
+     "4400202611270002",
+     "4400202611270003",
+     "4400202611270004",
+     "4400202611270005",
+     "4400202611270006",
+     "4400202611270007",
+     "4400202611270008",
+     "4400202611270009"
+    ],
     "changed": [],
     "removed": []
    },
@@ -39,16 +53,36 @@
    "runner": "lawwatch russia (65e3dde363)",
    "schema": "lexifina-check/1",
    "seen": {
-    "added": [],
+    "added": [
+     "4400202611270001",
+     "4400202611270002",
+     "4400202611270003",
+     "4400202611270004",
+     "4400202611270005",
+     "4400202611270006",
+     "4400202611270007",
+     "4400202611270008",
+     "4400202611270009"
+    ],
     "changed": [],
     "removed": []
    },
-   "snapshot": "1683 law-type documents in block region44; newest published 2026-10-27",
+   "snapshot": "1692 law-type documents in block region44; newest published 2026-11-27",
    "source": "pravo-kostroma",
-   "started": "2026-11-27T05:30:17Z",
+   "started": "2026-11-28T05:39:04Z",
    "unexplained": 0,
    "update": {
-    "parts": []
+    "append": {
+     "commits": 1,
+     "corrections": null,
+     "extended_acts": [
+      "zakony-2026"
+     ],
+     "new_acts": []
+    },
+    "parts": [
+     "95-watch-20261128-001.json"
+    ]
    },
    "verify": {
     "cycle_days": 1,
@@ -57,7 +91,7 @@
     "method": "the portal's whole listing for the subject (read this check, every page) parsed by the builder (ru_catalogue.parse) and compared, publication day by publication day, with the corpus this repository is built from; each year's newest state rendered by the builder (gitlaw_common) against the files at the tip of main",
     "ok": true,
     "swept": 13,
-    "versions_checked": 231,
+    "versions_checked": 232,
     "versions_differ": 0
    }
   }

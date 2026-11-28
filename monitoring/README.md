@@ -4,18 +4,19 @@
 
 How global-law monitors every country: [global-law monitoring/](https://github.com/lexifina/global-law/tree/main/monitoring). This page is the same for Kostroma Oblast only: every time an official source is read, when, and what came of it (acts added, changed and removed). The machine-readable form is [data/checks/](../data/checks/) (JSON Lines, schema `lexifina-check/1`), in `git log` as `Kind: check` commits, and month by month in [checks/](checks/).
 
-**Last check:** 2026-11-27 05:31 UTC, Kostroma Oblast: Official Internet Portal of Legal Information (region44): 12 addresses read; 0 added, 0 changed, 0 removed; no change; 0 not published, 0 of them with no reason.
+**Last check:** 2026-11-28 05:39 UTC, Kostroma Oblast: Official Internet Portal of Legal Information (region44): 12 addresses read; 9 added, 0 changed, 0 removed; changes found; 0 not published, 0 of them with no reason.
 
 ## Sources
 
 | Source | Folders | How often | Last successful check | Last result | State |
 | --- | --- | --- | --- | --- | --- |
-| [Kostroma Oblast: Official Internet Portal of Legal Information (region44)](http://publication.pravo.gov.ru/documents/block/region44) | `zakony-<year>/` | daily | 2026-11-27 05:31 UTC | no change | watched |
+| [Kostroma Oblast: Official Internet Portal of Legal Information (region44)](http://publication.pravo.gov.ru/documents/block/region44) | `zakony-<year>/` | daily | 2026-11-28 05:39 UTC | changes found | watched |
 
 ## The last 30 days
 
 | Started (UTC) | Source | Read | Added | Changed | Removed | Not published (no reason) | Result | Commits |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | --- | ---: |
+| [2026-11-28 05:39](checks/2026-11.md#ru-pravo-kostroma-20261128t053904z) | pravo-kostroma | 12 | 9 | 0 | 0 | 0 (0) | changes found | [2](https://github.com/lexifina/russia-kostroma-law/compare/e2e9c48c1b95...eaf9b946d699) |
 | [2026-11-27 05:30](checks/2026-11.md#ru-pravo-kostroma-20261127t053017z) | pravo-kostroma | 12 | 0 | 0 | 0 | 0 (0) | no change | — |
 | [2026-11-26 05:35](checks/2026-11.md#ru-pravo-kostroma-20261126t053543z) | pravo-kostroma | 12 | 0 | 0 | 0 | 0 (0) | no change | — |
 | [2026-11-25 06:00](checks/2026-11.md#ru-pravo-kostroma-20261125t060030z) | pravo-kostroma | 14 | 0 | 0 | 0 | 0 (0) | no change | — |
